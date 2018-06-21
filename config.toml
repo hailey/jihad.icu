@@ -1,0 +1,50 @@
+baseURL = "https://jihad.icu/"
+languageCode = "en-us"
+title = "The Modern Jihad"
+theme = "kiss-jihad"
+copyright = "&copy; fearness.org 2018"
+#disqusShortname = "shortname"
+googleAnalytics = ""
+# Number of posts per page
+Paginate = 5
+enableRobotsTXT = true
+
+
+[params.assets]
+customCSS = ["css/custom.css"]
+
+[params.info]
+adsense = "" # Adsense ID (ID only, without ca-pub-)
+enableSocial = false # Adds OpenGraph and Twitter cards
+homeTitle = "The Modern Jihad: The Descent" # Title for home page
+poweredby = false # Adds powered by hugo and kiss below Copyright
+related = true # Includes related articles at the bottom of the article
+
+
+#[params.opengraph.facebook]
+#admins = [] # array of Facebook IDs
+#appID = ""
+#pageID = ""
+
+[params.opengraph.twitter]
+#page = "" # Twitter Page username. If not set, params.social.twitter will be used.
+
+[params.social]
+
+#twitter = "ribicemir"
+#github = "ribice"
+email = "saabria@fearness.org"
+#linkedin = "ribice"
+#facebook = "ribice"
+#instagram = ""
+#codepen = ""
+
+[taxonomies]
+tag ="tags"
+
+[blackfriday]
+hrefTargetBlank = true
+
+#[params.sections_right]
+#"/about" = "![Something](/img/jihad-about-button.png)"
+#"https://fearness.org" = "Fearness dot org"

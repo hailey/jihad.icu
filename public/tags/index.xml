@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on The Modern Jihad</title>
+    <link>https://jihad.icu/tags/</link>
+    <description>Recent content in Tags on The Modern Jihad</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; fearness.org 2018</copyright>
+    <lastBuildDate>Mon, 11 Jun 2018 12:37:42 -0700</lastBuildDate>
+    
+	<atom:link href="https://jihad.icu/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://jihad.icu/tags/about/</link>
+      <pubDate>Mon, 11 Jun 2018 12:37:42 -0700</pubDate>
+      
+      <guid>https://jihad.icu/tags/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Books</title>
+      <link>https://jihad.icu/tags/books/</link>
+      <pubDate>Tue, 12 Jun 2018 14:50:52 -0700</pubDate>
+      
+      <guid>https://jihad.icu/tags/books/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fiction</title>
+      <link>https://jihad.icu/tags/fiction/</link>
+      <pubDate>Mon, 11 Jun 2018 12:37:42 -0700</pubDate>
+      
+      <guid>https://jihad.icu/tags/fiction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Journal</title>
+      <link>https://jihad.icu/tags/journal/</link>
+      <pubDate>Fri, 15 Jun 2018 21:37:15 -0700</pubDate>
+      
+      <guid>https://jihad.icu/tags/journal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plan</title>
+      <link>https://jihad.icu/tags/plan/</link>
+      <pubDate>Fri, 15 Jun 2018 21:37:15 -0700</pubDate>
+      
+      <guid>https://jihad.icu/tags/plan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reviews</title>
+      <link>https://jihad.icu/tags/reviews/</link>
+      <pubDate>Tue, 12 Jun 2018 14:50:52 -0700</pubDate>
+      
+      <guid>https://jihad.icu/tags/reviews/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Update</title>
+      <link>https://jihad.icu/tags/update/</link>
+      <pubDate>Fri, 15 Jun 2018 21:37:15 -0700</pubDate>
+      
+      <guid>https://jihad.icu/tags/update/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
