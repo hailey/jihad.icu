@@ -1,7 +1,7 @@
 ---
 title: "Branching Into a New Church"
-date: 2018-08-16T19:16:59-07:00
-draft: true
+date: 2018-08-16T18:16:59-07:00
+draft: false
 tags: ["update", "journal","school","self reflection"]
 hidden: false
 ---
